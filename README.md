@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Link](https://social-media-dashboard-o.netlify.app/)
+- Live Site URL: [Link](https://insure-landing-page-o.netlify.app)
 
 ## My process
 
